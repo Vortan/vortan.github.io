@@ -8,8 +8,6 @@ Vortan is a open-source project which aims to boost the online and digital prese
 the Armenian language. There are a set of tools there are available in most
 languages that we want to develop for Armenian.
 
-_We are looking for ambitious programmers, linguists, designers or anyone who would enjoy contributing to join the project!_
-
 ### Projects:
 
 * [Spellchecker](spellchecker)
@@ -20,3 +18,12 @@ _We are looking for ambitious programmers, linguists, designers or anyone who wo
   * An optical character recognizer to scan books in Armenian
 * [Dictionaries](dictionaries)
   * Comprehensive digital dictionaries and corpora in both Eastern & Western Armenian.
+
+### Team
+
+* [Souren Papazian](https://github.com/sourenp)
+* [Hayg Astourian](https://github.com/copacetic)
+* [Vahakn Papazian](https://github.com/vahaknp)
+
+We are looking for ambitious programmers, linguists, designers or anyone who would like to join the project!
+Shoot us an email at [souren@papazian.info](mailto:souren@papazian.info).
