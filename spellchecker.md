@@ -5,6 +5,8 @@ permalink: /spellchecker/
 order: 3
 ---
 
+[Repository](https://github.com/Vortan/spellchecker)
+
 ### Goal
 
 Create an Armenian spellchecker both on a browser and mobile devices to make the use of the Armenian alphabet more accessible digitally.

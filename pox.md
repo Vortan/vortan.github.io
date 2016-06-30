@@ -1,9 +1,11 @@
 ---
 layout: page
-title: TypeLatin
-permalink: /typelatin/
+title: Pox
+permalink: /pox/
 order: 4
 ---
+
+[Repository](https://github.com/Vortan/pox)
 
 ### Goal
 
