@@ -28,6 +28,15 @@ $midnight-moss: #040707;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+.v {
+  float: left;
+  width: 155px;
+  height: 686px;
+}
+
+@media only screen
+and (min-device-width : 0px)
+and (max-device-width : 700px) { .v { display: none; }}
 
 
 // Using media queries with like this:
