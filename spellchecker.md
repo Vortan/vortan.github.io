@@ -5,7 +5,6 @@ permalink: /spellchecker/
 order: 3
 ---
 
-[Repository](https://github.com/Vortan/spellchecker)
 
 ### Goal
 
